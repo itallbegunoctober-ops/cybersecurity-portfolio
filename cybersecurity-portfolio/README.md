@@ -69,7 +69,7 @@ These reports describe guided labs and their learning outcomes. They should not 
 
 - **Name:** Opribo Michael Davies
 - **Location:** Nigeria
-- **LinkedIn:** Add your verified LinkedIn URL
-- **Email:** Add your preferred professional email
+- **LinkedIn:**  https://www.linkedin.com/in/opribo-davies-711671412/
+- **Email:** itallbegunoctober@gmail.com
 
 *This portfolio is a living record of practical training and future projects.*
